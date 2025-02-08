@@ -6465,8 +6465,8 @@
                       estimatedGas: s.toString(),
                       tokenApprovalAddress: o.tx.to,
                       rawQuote: o.tx,
-                      logo: "https://enso.finance/favicon.ico",
-                      logoBlack: "https://enso.finance/favicon.ico",
+                      logo: "/favicon.ico",
+                      logoBlack: "/favicon.ico",
                       description:
                         "This route gets data directly from the Enso CowSwap solver",
                     },
